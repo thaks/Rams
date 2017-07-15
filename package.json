@@ -1,0 +1,23 @@
+{
+  "name": "alrams",
+  "version": "1.0.0",
+  "description": "Al Rams Tour and Travel Website Sharja",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
